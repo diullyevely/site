@@ -1,5 +1,5 @@
 <h1> Projeto Sorteador Aleatório</h1>
-<h2> Segundo treinamento utilizando linguagem de programação:</h2><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java">
+<h2> Utilizando linguagem de programação:</h2><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java">
 <h2> Projeto executado com:</h2>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
@@ -15,5 +15,6 @@
 <br>
 <h2 align="center">Projeto para visualização:</h2>
 <br>
-
-<img src="" height="200px">
+<div align="center">
+<img src="https://github.com/diullyevely/site/blob/main/Assets/Design%20sem%20nome%20(1).png?raw=true" height="200px">
+  </div>
