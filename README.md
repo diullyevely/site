@@ -1,4 +1,4 @@
-<h1> Projeto Sorteador Aleatório</h1>
+<h1> Projeto Site Mario & Luigi </h1>
 <h2> Utilizando linguagem de programação:</h2><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java">
 <h2> Projeto executado com:</h2>
 <div>
